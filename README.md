@@ -100,4 +100,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 Valtecir Aragao dos Santos - valteciraragao@poli.ufrj.br
 
-Link do Projeto: [https://github.com/<valteciraragao>/laboratorio-quantico-streamlit](https://github.com/valteciraragao/laboratorio-quantico-streamlit)
+Link do Projeto: [https://github.com/<valteciraragao>/laboratorio-quantico-streamlit](https://github.com/<valteciraragao>/laboratorio-quantico-streamlit)
