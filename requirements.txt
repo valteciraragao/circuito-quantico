@@ -1,0 +1,7 @@
+ streamlit
+ qiskit
+ qiskit-aer
+ pylatexenc
+ numpy
+ matplotlib
+
