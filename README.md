@@ -4,8 +4,6 @@
 
 ---
 
-![Demo do Laboratório Quântico](https://i.imgur.com/gKkISq4.png) 
-*(Exemplo de imagem da interface. Um GIF mostrando a interação seria ainda melhor!)*
 
 ## 🔷 Sobre o Projeto
 
@@ -100,6 +98,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📬 Contato
 
-Seu Nome - [@SeuTwitter](https://twitter.com/SeuTwitter) - seuemail@exemplo.com
+Valtecir Aragao dos Santos - valteciraragao@poli.ufrj.br
 
-Link do Projeto: [https://github.com/<SEU-NOME-DE-USUARIO>/laboratorio-quantico-streamlit](https://github.com/<SEU-NOME-DE-USUARIO>/laboratorio-quantico-streamlit)
+Link do Projeto: [https://github.com/<valteciraragao>/laboratorio-quantico-streamlit](https://github.com/valteciraragao/laboratorio-quantico-streamlit)
